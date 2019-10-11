@@ -10,7 +10,7 @@ humandate: "Oct 17, 24, 31, Nov 7 & 14, 2019"
 humantime: "9:00 am - 12:00 pm"
 startdate: 2019-10-17  
 enddate: 2019-11-14
-instructor: ["Sue McClatchy", "Stanley Yang", "Andrew Deighan"]
+instructor: ["Sue McClatchy", "Stanley Yang", "Carolyn Paisie", "Andrew Deighan"]
 helper: [""]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
 email: ["susan.mcclatchy@jax.org"]
 collaborative_notes:             # optional: URL for the workshop collaborative notes, e.g. an Etherpad or Google Docs document
